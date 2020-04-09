@@ -15,10 +15,15 @@
 	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
 	border-radius: 6px;
 	margin:10px;
-	flex-basis: 250px
-	background: white;
+	flex-basis: 250px;
+	background: #E6E6E6;
 }
 
+.card:hover {
+	background: white;
+}
+	
+	
 .card img {
 	width: 150px;
 	border-radius: 6px;
